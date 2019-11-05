@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    "babel-plugin-tailwind-string"
+  ],
+  "presets": [
+    "@babel/preset-typescript",
+    "@babel/preset-react",
+    "linaria/babel"
+  ]
+}
